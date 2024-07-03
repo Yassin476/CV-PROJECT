@@ -1,0 +1,75 @@
+@import './start.css';
+
+.header {
+    &__identity {
+        &-picture {
+            
+        }
+        &-name {
+
+        }
+        &-job {
+
+        }
+    }
+    &__contact {
+        &-adress {
+            
+        }
+        &-mail {
+
+        }
+        &-phone {
+
+        }
+    }
+}
+
+.main {
+    .sidebar {
+        &__title {
+
+        }
+        &__description {
+
+        }
+        &__list {
+
+        }
+    }
+
+    .content {
+        .experience,
+        .formation,
+        .skills {
+            &__title {
+
+            }
+            &__subtitle {
+    
+            }
+            &__date {
+                
+            }
+            &__list {
+
+            }
+            &__text {
+
+            }
+        }  
+    }
+}
+
+.footer {
+    &__logo {
+
+    }
+
+    small {
+
+    }
+}
+
+
+
